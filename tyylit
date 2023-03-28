@@ -1,28 +1,16 @@
-<style>
 body {
-  background-color: rgb(240, 240, 240);
-  font-family: Arial, sans-serif;
-}
-
-h1 {
-  color: #333;
-  font-size: 36px;
-  text-align: center;
-}
-
-p {
-  color: #666;
-  font-size: 18px;
-  line-height: 1.5;
-}
-
-ul {
-  list-style-type: disc;
-  margin-left: 20px;
-}
-
-li {
-  color: #333;
-  font-size: 16px;
-}
-</style>
+    background-color: rgba(0, 255, 191, 0.877);
+    
+    }
+    h1 {
+    color: white;
+    text-align: center;
+    font: italic 200% fantasy;
+    }
+    p {
+    background-color: #FFFF33;
+    color: black;
+    text-align: center;
+    border: 4px groove #FFFF33;
+    }
+    
